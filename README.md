@@ -1,3 +1,3 @@
 # proyecto-final-react
 Componente Modal
-Roberto C. Mendoza
+- Roberto C. Mendoza
