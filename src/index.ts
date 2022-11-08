@@ -1,3 +1,3 @@
-import { Label } from './components/label';
+import { BasicModal } from './components/modal';
 
-export default Label;
+export default BasicModal;
